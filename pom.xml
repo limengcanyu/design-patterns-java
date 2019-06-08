@@ -13,6 +13,14 @@
         <module>creational-patterns/singleton-pattern</module>
         <module>creational-patterns/builder-pattern</module>
         <module>creational-patterns/prototype-pattern</module>
+        <module>structural-patterns/adapter-pattern</module>
+        <module>structural-patterns/bridge-pattern</module>
+        <module>structural-patterns/filter-pattern</module>
+        <module>structural-patterns/composite-pattern</module>
+        <module>structural-patterns/decorator-pattern</module>
+        <module>structural-patterns/facade-pattern</module>
+        <module>structural-patterns/flyweight-pattern</module>
+        <module>structural-patterns/proxy-pattern</module>
     </modules>
     <packaging>pom</packaging>
 

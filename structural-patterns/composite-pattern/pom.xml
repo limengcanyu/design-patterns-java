@@ -10,10 +10,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.singleton.pattern</groupId>
-    <artifactId>singleton-pattern</artifactId>
+    <groupId>com.composite.pattern</groupId>
+    <artifactId>composite-pattern</artifactId>
 
-    <name>singleton-pattern</name>
+    <name>composite-pattern</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 </project>
